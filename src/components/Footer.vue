@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        CIBC Azure Red Hat OpenShift (ARO) - CIBC testing
+        CIBC Azure Red Hat OpenShift (ARO) workshop
       </div>
       <div class="col-lg-6">
       </div>
